@@ -6,4 +6,4 @@ Libraies required are:
 1. pyautogui
 2. pyscreenshot
 3. numpy
-4. cv2
+4. opencv
